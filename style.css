@@ -1,0 +1,19 @@
+p {
+    font-size:3vmin;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:900;
+    color:#f6eee3;
+}
+
+#container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    max-height: 95vh;
+}
+
+img {
+    max-height: 75vh;
+    max-width: 75vw;
+}
